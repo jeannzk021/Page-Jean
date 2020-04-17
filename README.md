@@ -1,5 +1,8 @@
-# Page-Jean 💻✔
+# Page-Jean 💻✔  
+- Tecnologies: HTML5 | JavaScript | NodeJS | CSS 
+  
 <a href="https://boring-shirley-69d75a.netlify.app/"><h4> Acesse a Página<h4></a>
+  
   
   
   
