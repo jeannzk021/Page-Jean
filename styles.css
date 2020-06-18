@@ -10,7 +10,7 @@
 }
 
 body {
-    background: #282a36;
+    background: #000000;
     font-family: 'Source Sans Pro', sans-serif;
     color: white;
 }
@@ -21,7 +21,7 @@ header {
 
 header {
     padding: 32px;
-    border-bottom: 1px solid #333;
+    border-bottom: 1px solid #efefef;
     background: rgba(0, 0, 0, 0.1);
 }
 
